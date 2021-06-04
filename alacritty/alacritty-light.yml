@@ -200,7 +200,7 @@ colors:
   # Default colors
   primary:
     background: "0xffffff"
-    foreground: "0x787878"
+    foreground: "0x333333"
 
   cursor:
     text: "0xeeeeee"
